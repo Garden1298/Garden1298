@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
 </p>
 
----
+
 
 ### 💪 Capable  
 > 개인 프로젝트에서 직접 구축하고 활용해봤어요.
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Trello-026AA7?style=flat&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
----
+
 
 ### 🤔 Experienced Before  
 > 과거에 다뤄본 적은 있지만, 익숙하진 않아요. 😅
