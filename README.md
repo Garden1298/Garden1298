@@ -67,7 +67,7 @@
   
 # 🌟 Projects
 
-<a href="https://smart-jujube-0ae.notion.site/8af5ad7425aa4e7d9952de0d48409f9d?pvs=74" target="_blank" rel="noopener noreferrer">
+<a href="https://smart-jujube-0ae.notion.site/Project-LIST-f472605b899b4a6b9718c3bd506c57a8" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Notion_Page-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Page" />
 </a>
 
