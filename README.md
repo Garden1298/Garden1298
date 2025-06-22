@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:98ff98,100:00b386&height=160&section=header&text=%F0%9F%8C%B3%20Welcome%20to%20Garden's%20GitHub!%20%F0%9F%8E%89&fontSize=50&fontColor=ffffff&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=30)
 
-## 📚 Skill Proficiency Levels
+# 📚 Skill Proficiency Levels
 
 ### 🏆 Confident  
 > 실무에서 꾸준히 사용 중이며, 익숙하게 다룰 수 있어요.
@@ -61,3 +61,26 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
+  
+  
+
+  
+# 🌟 Projects
+
+<details>
+  <summary>📁 Click here to see my projects(작성중...)</summary>
+
+  <br/>
+
+  - 🏅 **SSAFY-STAR** (2023.04~2023.05)  
+    3D 메타버스 기반 커뮤니케이션 플랫폼  
+    [GitHub 링크](https://github.com/SSAFY8th-STUDY)
+
+  - 🎖️ **Runtopia** (2023.02~2023.04)  
+    Unity 기반 3D 러닝 액션 게임  
+    [GitHub 링크](https://github.com/Runtopia)
+
+  ...
+
+</details>
+
