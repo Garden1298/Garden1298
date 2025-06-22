@@ -67,20 +67,7 @@
   
 # 🌟 Projects
 
-<details>
-  <summary>📁 Click here to see my projects(작성중...)</summary>
-
-  <br/>
-
-  - 🏅 **SSAFY-STAR** (2023.04~2023.05)  
-    3D 메타버스 기반 커뮤니케이션 플랫폼  
-    [GitHub 링크](https://github.com/SSAFY8th-STUDY)
-
-  - 🎖️ **Runtopia** (2023.02~2023.04)  
-    Unity 기반 3D 러닝 액션 게임  
-    [GitHub 링크](https://github.com/Runtopia)
-
-  ...
-
-</details>
+<a href="https://smart-jujube-0ae.notion.site/8af5ad7425aa4e7d9952de0d48409f9d?pvs=74" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Notion_Page-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Page" />
+</a>
 
