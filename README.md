@@ -1,6 +1,4 @@
-## 👋 Hi there!
-
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:98ff98,100:00b386&height=160&section=header&text=%F0%9F%8C%B3%20Welcome%20to%20Garden's%20GitHub!%20%F0%9F%8E%89&fontSize=50&fontColor=ffffff&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=30)
 
 ## 📚 Skill Proficiency Levels
 
