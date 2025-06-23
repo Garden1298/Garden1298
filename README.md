@@ -97,7 +97,7 @@ Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; max-width: 700px; 
   <!-- Career -->
   <h1>💼 Career</h1>
 
-  <p><strong>2024.11 ~ 현재</strong> &nbsp; <strong>Treenod</strong> – <em>Mobile Puzzle Game 개발</em><br>
+  <p><strong>2023.11 ~ 현재</strong> &nbsp; <strong>Treenod</strong> – <em>Mobile Puzzle Game 개발</em><br>
   🎮 <strong>LINE POKOPOKO</strong> 프로젝트 참여 중</p>
 
   <br>
