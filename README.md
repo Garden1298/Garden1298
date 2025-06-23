@@ -107,7 +107,7 @@ Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; max-width: 700px; 
 
   <p><strong>2022.07 ~ 2023.07</strong> &nbsp; 삼성 청년 SW 아카데미 (SSAFY) - <em>부트캠프 수료</em></p>
   <p><strong>2021.10 ~ 2021.12</strong> &nbsp; 버킷플레이 체험형 인턴 - <em>(대표작: 스윙 덩크)</em></p>
-  <p><strong>2021.01 ~ 2021.02</strong> &nbsp; XR 콘텐츠 아카데미 (충남 글로벌 게임 센터)</p>
+  <p><strong>2021.01 ~ 2021.02</strong> &nbsp; XR 콘텐츠 아카데미 (충남 글로벌 게임 센터) - <em>수료</em></p>
 
   <br>
 
