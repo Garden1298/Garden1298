@@ -94,13 +94,14 @@ Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; max-width: 700px; 
     <img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" style="vertical-align: middle;" />
   </p>
 
-  <br /><br /><br />
+  <br /><br />
 
   <h1>🌟 Projects</h1>
 
   <a href="https://www.notion.so/Project-LIST-21b1c410bfd680ce881adeaa19e8f052?source=copy_link" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Notion_Page-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Page" />
+    <img src="https://img.shields.io/badge/Notion_Page-FF4500?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Page" />
   </a>
+
 
 </div>
 
