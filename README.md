@@ -1,25 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:98ff98,100:00b386&height=160&section=header&text=%F0%9F%8C%B3%20Welcome%20to%20Garden's%20GitHub!%20%F0%9F%8E%89&fontSize=50&fontColor=ffffff&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=30)
-
-<br>
-<br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="GIF" />
-</p>
-<br>
-<br>
 
 
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
 Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; max-width: 700px; margin: auto;">
 
+  <!-- Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:98ff98,100:00b386&height=160&section=header&text=%F0%9F%8C%B3%20Welcome%20to%20Garden's%20GitHub!%20%F0%9F%8E%89&fontSize=50&fontColor=ffffff&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=30" alt="Header" />
+  
+  <br><br>
+
+  <p>
+    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="GIF" />
+  </p>
+
+  <br><br>
+
+  <!-- Skills -->
   <h1>📚 Skill Proficiency Levels</h1>
 
   <h3>🏆 Confident</h3>
   <sub><i>실무에서 꾸준히 사용 중이며, 익숙하게 다룰 수 있어요</i></sub>
-  <br>
-  <br>
+  <br><br>
   <p>
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" style="vertical-align: middle;" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" style="vertical-align: middle;" />
     &nbsp;&nbsp;
@@ -36,9 +38,7 @@ Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; max-width: 700px; 
 
   <h3>💪 Capable</h3>
   <sub><i>개인 프로젝트에서 직접 구축하고 활용해봤어요</i></sub>
-  <br>
-  <br>
-
+  <br><br>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="vertical-align: middle;" />
     &nbsp;&nbsp;
@@ -69,9 +69,7 @@ Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; max-width: 700px; 
 
   <h3>🤔 Experienced Before</h3>
   <sub><i>과거에 다뤄본 적은 있지만, 익숙하진 않아요 😅</i></sub>
-  <br>
-  <br>
-
+  <br><br>
   <p>
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" style="vertical-align: middle;" />
     &nbsp;&nbsp;
@@ -94,16 +92,44 @@ Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; max-width: 700px; 
     <img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" style="vertical-align: middle;" />
   </p>
 
-  <br /><br />
+  <br><br>
 
+  <!-- Career -->
+  <h1>💼 Career</h1>
+
+  <p><strong>2024.11 ~ 현재</strong> &nbsp; <strong>Treenod</strong> – <em>Mobile Puzzle Game 개발</em><br>
+  🎮 <strong>LINE POKOPOKO</strong> 프로젝트 참여 중</p>
+
+  <br>
+
+  <!-- Experience -->
+  <h1>🎓 Experience</h1>
+
+  <p><strong>2022.07 ~ 2023.07</strong> &nbsp; 삼성 청년 SW 아카데미 (SSAFY) - <em>부트캠프 수료</em></p>
+  <p><strong>2021.10 ~ 2021.12</strong> &nbsp; 버킷플레이 체험형 인턴 - <em>(대표작: 스윙 덩크)</em></p>
+  <p><strong>2021.01 ~ 2021.02</strong> &nbsp; XR 콘텐츠 아카데미 (충남 글로벌 게임 센터)</p>
+
+  <br>
+
+  <!-- Awards -->
+  <h1>🏆 Awards & Certificates</h1>
+
+  <p><strong>2023.05</strong> &nbsp; 삼성 청년 SW 아카데미 자율 프로젝트에서 <strong>우수상</strong> 수상 🏅</p>
+  <p><strong>2023.02</strong> &nbsp; 삼성 청년 SW 아카데미 공통 프로젝트에서 <strong>우수상</strong> 수상 🏅</p>
+  <p><strong>2021.12</strong> &nbsp; 충남 글로벌 게임 센터 창업 공모전에서 <strong>우수상</strong> 수상 🏅</p>
+
+  <br><br>
+
+  <!-- Projects -->
   <h1>🌟 Projects</h1>
 
   <a href="https://www.notion.so/Project-LIST-21b1c410bfd680ce881adeaa19e8f052?source=copy_link" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Notion_Page-FF4500?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Page" />
   </a>
 
-
+  <br><br>
 </div>
+
 
 
 
