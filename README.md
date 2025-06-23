@@ -127,7 +127,12 @@ Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; max-width: 700px; 
     <img src="https://img.shields.io/badge/Notion_Page-FF4500?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Page" />
   </a>
 
+<p align="center">
+  <img src="https://media.tenor.com/cQOOEfymz7gAAAAj/exploding-head-rush.gif" alt="Exploding Head Rush GIF" width="150"/>
+</p>
+
   <br><br>
+
 </div>
 
 
